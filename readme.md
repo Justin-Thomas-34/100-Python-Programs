@@ -1,6 +1,6 @@
 ## 100+ PYTHON PROGRAMS | Python Programs For Beginners | Python Tutorial wih Programs
 
-Program 01 : Program to add two numbers in Python
+Program 01 : Program to add two numbers in Python /n
 Program 02 : print Hello World
 Program 03 : find the square root
 Program 04 : Calculate the Area of a Triangle
