@@ -15,6 +15,7 @@ print("The sum of two numbers is",sum1)
 
 
 # Solution 2 : By taking user input
+
 num3 = float(input("Enter a number"))
 num4 = float(input("Enter second number"))
 sum2 = num3 + num4 
