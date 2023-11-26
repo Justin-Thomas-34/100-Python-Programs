@@ -1,4 +1,4 @@
-# 100+ Python Programs Repository
+# 100 Python Programs Repository
 
 This repository contains a diverse collection of Python programs for beginners and learners. Each program is designed to cover a specific concept or problem, providing a hands-on approach to mastering Python. Whether you're just starting with Python or looking to enhance your skills, this repository has something for everyone.
 
@@ -93,5 +93,16 @@ This repository contains a diverse collection of Python programs for beginners a
 87. **Count the Number of Occurrences of a Character in a String**
 88. **Remove Duplicate Element From a List**
 89. **Convert Bytes to a String**
+90. **Find the LCM of Two Numbers**
+91. **Generate QR Code**
+92. **Validate Email Address**
+93. **Convert String to Lowercase and Uppercase**
+94. **Calculate BMI (Body Mass Index)**
+95. **Find the Intersection of Two Lists**
+96. **Calculate Average of Numbers**
+97. **Check if a String is a Palindrome**
+98. **Generate Password**
+99. **Find the Smallest and Largest Elements in a List**
+100. **Calculate the Distance Between Two Points**
 
 Feel free to explore and learn from these programs. Happy coding! 🚀🐍
